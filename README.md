@@ -12,7 +12,7 @@
     
   - 💻 I'm also participating in the Data Analyst Bootcamp at Generation Brasil. An intensive learning program that features simulations of real-world scenarios from the job market.
   
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I’m looking for my first job opportunity. I hope to grow professionally in Analytics, AI and Growth.
 </p>
 
 <!-- Dropdown -->
