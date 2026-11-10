@@ -61,7 +61,7 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="git" height="30" width="40" src="https://github.com/kirito666coder/Skill-icons/blob/main/public/icons/git.svg">
     <img align="center" alt="claude" height="30" width="40" src="https://github.com/kirito666coder/Skill-icons/blob/main/public/icons/claude.svg">
   </div>
   
