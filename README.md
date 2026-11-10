@@ -4,6 +4,8 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+---
+
 <!-- Presentation -->
 <p>
   Hi guys, I'm Diogo! A passionate Data Science and Database student from Brazil.
@@ -17,6 +19,8 @@
   - 🔭 I’m looking for my first job opportunity. I hope to grow professionally in Analytics, AI and Growth.
 </p>
 
+---
+
 <!-- Dropdown -->
 <details>
   <summary>🙋‍♂️ More about me</summary>
@@ -26,20 +30,23 @@
   - 👾 I enjoy reading material related to professional development, or simply picking up a book that I find interesting. I’m passionate about racing games, FPS, and RTS titles. I also really enjoy watching series and movies with my wife and our dogs. \o/
 </details>
 
+---
+
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogormalheiros/)
 
-<!-- Portfolio -->
-## Portfolio:
--
--
--
--
+---
 
+<!-- Portfolio -->
+<details>
+ <summary> Portfolio </summary>
+👷 I'm working on this...
+
+---
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
