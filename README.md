@@ -1,7 +1,7 @@
 <!--titulo-->
 <div id="user-content-toc">
     <ul align="center">
-        <summary><h1 style="display: inline-block">Hello World</h1></summary>
+        <summary><h1 style="display: inline-block">Hey, great to see you here</h1></summary>
     </ul>
 </div>
 
@@ -9,7 +9,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi guys, I'm Diogo! A passionate Data Science and Database student from Brazil.
+  I'm Diogo! A passionate Data Science and Database student from Brazil.
 
   - 🌱 I’m currently studying Data Science and Database at Faculdade Impacta. www.impacta.edu.br
     
