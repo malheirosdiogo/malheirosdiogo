@@ -11,9 +11,9 @@
 <p>
   I'm Diogo! A passionate Data Science and Database student from Brazil.
 
-  - 🌱 I’m currently studying Data Science and Database at Faculdade Impacta. www.impacta.edu.br
+  - 🌱 I’m currently studying Data Science and Database at [Impacta University Center](https://www.impacta.edu.br/).
     
-  - 📊 I'm also participating in the Data Analyst Bootcamp at Generation Brazil. An intensive learning program that features simulations of real-world scenarios from the job market.
+  - 📊 I'm also participating in the Data Analyst Bootcamp at [Generation Brazil](https://brazil.generation.org/programas/analistadedados/). An intensive learning program that features simulations of real-world scenarios from the job market.
 
   - 📈 I have commercial and sales experience as a intern and executive.
   
