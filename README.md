@@ -15,7 +15,7 @@
     
   - 📊 I'm also participating in the Data Analyst Bootcamp at [Generation Brazil](https://brazil.generation.org/programas/analistadedados/). An intensive learning program that features simulations of real-world scenarios from the job market.
 
-  - 📈 I have commercial and sales experience as a intern and executive.
+  - 📈 I have commercial and sales experience as a Intern and Sales Executive.
   
   - 🔭 I’m looking for my first job opportunity. I hope to grow professionally in Analytics, AI and Growth.
 </p>
