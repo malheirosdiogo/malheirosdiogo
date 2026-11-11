@@ -60,6 +60,8 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="git" height="30" width="40" src="https://github.com/kirito666coder/Skill-icons/blob/main/public/icons/git.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img align="center" alt="SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
     <img align="center" alt="claude" height="30" width="40" src="https://github.com/kirito666coder/Skill-icons/blob/main/public/icons/claude.svg">
   </div>
   
