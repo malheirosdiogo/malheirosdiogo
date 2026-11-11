@@ -9,7 +9,7 @@
 
 <!-- Presentation -->
 <p>
-  I'm Diogo! A passionate Data Science and Database student from Brazil.
+  I'm Diogo! A beginner and passionate for technology student from Brazil.
 
   - 🌱 I’m currently studying Data Science and Database at [Impacta University Center](https://www.impacta.edu.br/).
     
